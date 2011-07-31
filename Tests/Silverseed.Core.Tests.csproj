@@ -66,6 +66,7 @@
     <Compile Include="Conditions\AndConditionTests.cs" />
     <Compile Include="Conditions\ConstConditionTests.cs" />
     <Compile Include="Conditions\OrConditionTests.cs" />
+    <Compile Include="MoneyTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
