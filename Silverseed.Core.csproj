@@ -66,10 +66,14 @@
     <Compile Include="Conditions\Condition.cs" />
     <Compile Include="Conditions\AndCondition.cs" />
     <Compile Include="Conditions\ConstCondition.cs" />
+    <Compile Include="Currency.cs" />
     <Compile Include="DictionaryExtensions.cs" />
     <Compile Include="Conditions\ICondition.cs" />
     <Compile Include="Conditions\NotCondition.cs" />
     <Compile Include="Conditions\OrCondition.cs" />
+    <Compile Include="ExchangeRateManager.cs" />
+    <Compile Include="Money.cs" />
+    <Compile Include="MoneyExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ServiceLocator.cs" />
     <Compile Include="Xml\IXmlHandler.cs" />
